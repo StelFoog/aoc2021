@@ -16,9 +16,9 @@ My Advent of Code 2021 using JavaScript with Node.js.
 - [x] Day 4
   - [x] Task 1
   - [x] Task 2
-- [ ] Day 5
-  - [ ] Task 1
-  - [ ] Task 2
+- [x] Day 5
+  - [x] Task 1
+  - [x] Task 2
 - [ ] Day 6 (Bday)
   - [ ] Task 1
   - [ ] Task 2
